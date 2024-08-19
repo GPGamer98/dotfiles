@@ -1,0 +1,17 @@
+window {
+	font-size: 16px;
+	font-family: "NotoSansM Nerd Font";
+	background-color: rgba(48, 169, 255, 0.4);
+	border-radius: 10px;
+}
+
+#outer-box {
+	border-radius: 10px;
+	border: 3px solid rgba(48, 169, 255, 0.4);
+}
+
+#entry:selected {
+	background-color: rgba(48, 169, 255, 0.5);
+}
+
+
